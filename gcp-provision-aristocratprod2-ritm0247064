@@ -1,0 +1,11 @@
+{
+  "name": "gis-prisma-cloud",
+  "team": "gis",
+  "manager": "fifi-ali",
+  "env": "dev",
+  "folder_id": "12345678",
+  "location": "l002",
+  "line-of-business": "infosec",
+  "cost-center": "f344",
+  "business-unit": "global-it"
+}
