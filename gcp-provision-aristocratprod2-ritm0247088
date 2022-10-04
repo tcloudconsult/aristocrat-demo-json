@@ -1,0 +1,11 @@
+{
+  "name": "IT-Test-porject",
+  "team": "it",
+  "manager": "james-nelson",
+  "env": "prod",
+  "folder_id": "12345678",
+  "location": "l002",
+  "line-of-business": "it-service-delivery",
+  "cost-center": "d340",
+  "business-unit": "global-it"
+}
