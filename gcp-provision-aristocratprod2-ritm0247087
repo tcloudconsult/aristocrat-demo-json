@@ -1,0 +1,11 @@
+{
+  "name": "IT-GITHUB-Integration",
+  "team": "IT",
+  "manager": "james-nelson",
+  "env": "prod",
+  "folder_id": "123455667",
+  "location": "l002",
+  "line-of-business": "it",
+  "cost-center": "d340",
+  "business-unit": "global-it"
+}
