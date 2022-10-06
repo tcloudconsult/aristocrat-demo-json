@@ -1,11 +1,11 @@
 {
-  "name": "gis-abcdefghij",
+  "name": "gis-abcdefghijf",
   "team": "gis",
   "manager": "john-smith",
-  "env": "prod",
+  "env": "dev",
   "folder_id": "123456790",
-  "location": "l0000",
+  "location": "l000",
   "line-of-business": "infoxxx",
-  "cost-center": "d123",
-  "business-unit": "global-xx"
+  "cost-center": "d000",
+  "business-unit": "global-xxx"
 }﻿
