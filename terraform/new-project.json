@@ -1,13 +1,13 @@
 [{
   "name": "delete-me-asap",
   "team": "na",
-  "manager": "john-wang",
+  "manager": "anjali-arora",
   "env": "dev",
-  "folder_id": "1234567890",
+  "folder_id": "128025459592",
   "location": "l002",
   "line-of-business": "na",
   "cost-center": "f344",
   "business-unit": "na",
   "account": "625010",
-  "premotion_eligible": "Yes"
+  "premotion_eligible": "yes"
 }]
